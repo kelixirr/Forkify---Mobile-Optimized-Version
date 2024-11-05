@@ -1,1 +1,0 @@
-# Forkify---Mobile-Optimized-Version
