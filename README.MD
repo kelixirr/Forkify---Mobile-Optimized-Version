@@ -10,7 +10,6 @@ Forkify is a recipe application designed to enable users to search for recipes, 
 
 - **Responsive Design**: Optimized the project for mobile devices with CSS configurations to ensure a seamless experience on smaller screens.
 
-### 4. Helper Function for Fractions
 - **Custom Fraction Function**: Introduced a new helper function to address compatibility issues with the `fractional` module on production environments like Netlify. This function ensures proper handling of fractional quantities.
 
 - **Fixed Issue With Servings Quantity For Uploaded Recipes**: Resolved an issue with the quantity displayed for newly uploaded recipes. The quantity fraction is now correctly formatted, preventing excessively large numbers when increasing serving sizes.
