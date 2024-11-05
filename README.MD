@@ -2,6 +2,8 @@
 
 Forkify is a recipe application designed to enable users to search for recipes, save their favorites, and upload their own culinary creations. This project serves as a learning experience, built upon the original concept by [Jonas Schmedtmann](https://github.com/jonasschmedtmann/complete-javascript-course). It incorporates several enhancements and bug fixes aimed at improving overall user experience and functionality.
 
+Live version is available here: [Forkify App](https://forkify-amritesh.netlify.app/)
+
 ## What's New In This One? 
 
 - **Add Recipe Button**: Fixed an issue where the add recipe button did not return the form to its initial state after submission.
